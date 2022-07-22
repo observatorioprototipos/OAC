@@ -950,6 +950,9 @@
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/icone-diadecampo.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/pg_inicial_teste-cabe%C3%A7alho%20-%20copia.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/opacidade.html</loc>
@@ -1066,6 +1069,9 @@
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/icone-diadecampo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/pg_inicial_teste-cabe%C3%A7alho%20-%20copia.png</image:loc>
     </image:image>
   </url>
 </urlset>
