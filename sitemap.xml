@@ -2,38 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://testeoac.000webhostapp.com/index.html</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/fundo-inteiro-n2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/img-retangulo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-cidasc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-ceasa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-epagri-cepa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-gov-sc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
@@ -590,38 +563,11 @@
   </url>
   <url>
     <loc>https://testeoac.000webhostapp.com/1920.html</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/fundo-inteiro-n2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/img-retangulo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-cidasc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-ceasa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-epagri-cepa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-gov-sc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
@@ -843,33 +789,6 @@
       <image:loc>https://testeoac.000webhostapp.com/images/fundo-inteiro-n2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/img-retangulo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-cidasc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-ceasa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-epagri-cepa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-gov-sc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
     </image:image>
     <image:image>
@@ -963,33 +882,6 @@
       <image:loc>https://testeoac.000webhostapp.com/images/fundo-inteiro-n2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/img-retangulo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-cidasc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-ceasa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-epagri-cepa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/logo-gov-sc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
     </image:image>
     <image:image>
@@ -1071,7 +963,7 @@
       <image:loc>https://testeoac.000webhostapp.com/images/icone-diadecampo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://testeoac.000webhostapp.com/images/pg_inicial_teste-cabe%C3%A7alho%20-%20copia.png</image:loc>
+      <image:loc>https://testeoac.000webhostapp.com/images/pg_inicial_teste-cabe%C3%A7alho%20-%20copia2.png</image:loc>
     </image:image>
   </url>
   <url>
