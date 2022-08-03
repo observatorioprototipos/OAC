@@ -1002,4 +1002,31 @@
       <image:loc>https://testeoac.000webhostapp.com/images/pg_politicaspublicas%20-%20copia.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://testeoac.000webhostapp.com/playsoundc.html</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/icone-endereco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/logo-oac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-ondapp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://testeoac.000webhostapp.com/images/bg-rodape.png</image:loc>
+    </image:image>
+  </url>
 </urlset>
